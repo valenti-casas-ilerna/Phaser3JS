@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 
-import '../app/Phaser3/PhaserSampleGame.js';
+import './Phaser3/PhaserConfig.js';
 
 @Component({
   selector: 'app-root',
